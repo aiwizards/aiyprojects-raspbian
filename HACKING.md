@@ -1,4 +1,4 @@
-# Set up the image
+# Setting up the image
 
 We recommend using [the images](https://aiyprojects.withgoogle.com/voice) we
 provide. Those images are based on [Raspbian](https://www.raspberrypi.org/downloads/raspbian/),
